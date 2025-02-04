@@ -19,7 +19,7 @@ const theme = createTheme({
         fontSize: "2rem",
         fontWeight: 600,
         color:COLORS.black,
-        lineHeight: 2,
+        lineHeight: 1.5,
       },
       h3: {
         fontSize: "1.5rem",

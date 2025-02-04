@@ -12,6 +12,8 @@ const CustomButton = ({ color }: CustomButtonProps) => {
     fontWeight: 600,
     color:COLORS.lightCream,
     textTransform:"none",
+    maxWidth: "14.25rem",
+    maxHeight:"3rem",
   }}>
     Free Consultation
   </Button>
